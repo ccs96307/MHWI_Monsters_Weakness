@@ -2,7 +2,7 @@
 ### MonsterHunterWorld: Iceborne-Monster Weakness
 This is a GUI you can query the weakness of monsters
 
-![image](http://github.com/ccs96307/MHWI_Monsters_Weakness/raw/master/pic/example.png)
+<img src="/pic/example.png" alt="My cool logo"/>
 
 ### Usage:
 - python3 main.py
@@ -18,8 +18,7 @@ This is a GUI you can query the weakness of monsters
 ### 魔物獵人世界: 冰原-魔物弱點屬性查詢
 - 可以使用這個工具來查詢魔物的弱點
 
-![image](http://github.com/ccs96307/MHWI_Monsters_Weakness/raw/master/pic/example.png)
-
+<img src="/pic/example.png" alt="My cool logo"/>
 
 ### 使用方法:
 - python3 main.py
