@@ -1,3 +1,0 @@
-# MonsterHunterRaiders
-"# MonsterHunterRaiders" 
-# MonsterHunterRaiders
